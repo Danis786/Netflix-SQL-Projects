@@ -1,2 +1,2 @@
-# Netflix-SQL-Projects
-Netflix Content Analysis Using SQL
+# Netflix Movies and TV Shows Data Analysis using SQL
+
